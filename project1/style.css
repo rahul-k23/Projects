@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    margin: 0;
+    box-sizing: border-box; 
+ }
+ .navbar{
+    background-color: rgb(77, 100, 153);
+ }
+ 
+ 
+ .navbar-brand{
+     font-size: 2rem ;
+     color: rgb(176, 176, 176);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ }
+  .navbar-brand:hover{
+     color: rgb(231, 9, 53);
+  }
+  .nav-link{
+     margin-right: 10px; 
+     margin-left: 10px;
+     color: black;
+     text-transform: uppercase;
+  }
+  .nav-link:hover{
+     color: black;
+  }
+  .search{
+     height: 40px;
+     width: 80%;
+     border-radius: 60px;
+     outline: none;
+     border: 2px solid #28438e
+  }
+  .btn0{
+    border: none;
+    background: #28438e;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 6px;
+    transition: 0.2s;
+  
+  }
+  button :hover{
+     box-shadow: 0 0 0 4px #fff,
+     0 0 0 8px #4070f4
+  }
+    h1 {
+   font-weight: 600;
+ }
